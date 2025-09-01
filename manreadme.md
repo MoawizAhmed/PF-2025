@@ -15,7 +15,7 @@
 4. push
 5. pull\
 ~~By MIstake~~\
-- [x].complete
-- []. incomplete
-- [x]. done js \
+- [x] complete
+- [ ] incomplete
+- [x] done js \
 - ![Cat image](https://www.hphhfoundation.org/blog/origin-of-cats)
