@@ -18,4 +18,4 @@
 - [x] complete
 - [ ] incomplete
 - [x] done js \
-![Cat image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTabby_cat&psig=AOvVaw2ItD_ToDn-eijKHT1hr5mc&ust=1756785332653000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOC0tdTVto8DFQAAAAAdAAAAABAo)
+![Cat image](https://www.google.com/imgres?q=cat&imgurl=https%3A%2F%2Fcdn.britannica.com%2F70%2F234870-050-D4D024BB%2FOrange-colored-cat-yawns-displaying-teeth.jpg&imgrefurl=https%3A%2F%2Fwww.britannica.com%2Fanimal%2Fcat&docid=Bvzzy2OOLWm60M&tbnid=zWdzdPdo-A-wdM&vet=12ahUKEwjTuJ6-1baPAxUgTKQEHe4cFXcQM3oECCAQAA..i&w=1600&h=1146&hcb=2&ved=2ahUKEwjTuJ6-1baPAxUgTKQEHe4cFXcQM3oECCAQAA)
