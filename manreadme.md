@@ -18,4 +18,4 @@
 - [x] complete
 - [ ] incomplete
 - [x] done js \
-- ![Cat image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTabby_cat&psig=AOvVaw2ItD_ToDn-eijKHT1hr5mc&ust=1756785332653000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOC0tdTVto8DFQAAAAAdAAAAABAo)
+![Cat image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTabby_cat&psig=AOvVaw2ItD_ToDn-eijKHT1hr5mc&ust=1756785332653000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOC0tdTVto8DFQAAAAAdAAAAABAo)
